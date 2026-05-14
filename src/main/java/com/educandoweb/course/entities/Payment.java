@@ -23,7 +23,7 @@ public class Payment implements Serializable {
     @MapsId
     private Order order;
 
-    private Payment(){
+    public Payment(){
 
     }
 
