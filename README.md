@@ -19,6 +19,7 @@ Este projeto foi criado para praticar os principais conceitos utilizados no dese
 ## 🚀 Tecnologias utilizadas
 
 - Java
+- PostgreSQL
 - Spring Boot
 - Spring Data JPA
 - Hibernate
